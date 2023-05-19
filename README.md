@@ -125,10 +125,13 @@
 
 ## CUESTIONARIO
 - Pruebe este código de arrayGenerator() en la página https://jslint.com/
-  <img src="probandoArrayGenerator.png">
+  <img src="probandoArrayGenerator.png" >
+  <img src="probandoArrayGenerator2.png">
 - Revisar esta discusión en stackoverflow - https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript
     - ¿Cómo se pueden resolver los warnings?
+        Para resolver los avisos solo se deberia declarar el array con [] y declarar otra variable con la longitud del array, ya que en si a los arrays se le asignan elementos y van creciendo dinamicamente.
     - ¿Se puede modificar la solución usando map? ¿Cómo?
+        Si se puede modificar el código usando map. Según la discusión mencionada anteriormente, se puede crear un arreglo "vacío" iterable utilizando la siguiente línea de código: Array.apply(); Guardando el valor que retorna en una variable, en el caso de la función arrayGenerator() se lo asignamos a la variable "a". Luego podemos iterar sobre ese arreglo con mapa, reemplazando cada elemento con el valor deseado: a.map( e => Math.ceil(Math.random() * (max - min) + min)); Por último retornamos el arreglo resultado de la iteración o lo guardamos en una variable.
 
 
 #
