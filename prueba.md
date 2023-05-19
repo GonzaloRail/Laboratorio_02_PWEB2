@@ -67,32 +67,36 @@
             I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
                     Repositorio general<br>
                     <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2">https://github.com/GonzaloRail/Laboratorio_02_PWEB2</a>
-                    <img src="./img/ejer1.png">
             <ul>
                 <li>
                     Ejercicio 01:<br>
                     Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.<br>
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1">https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1</a>
+                    <img src="./img/ejer1.png">
                 </li>
                 <li>
                     Ejercicio 02:<br>
                     Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.<br>
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio2">https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio2</a>
+                    <img src="./img/ejer2.png"><img src="./img/ejer2.1.png">
                 </li>
                 <li>
                     Ejercicio 03:<br>
                     Escribir una página que muestre cuántos días faltan para el día de Arequipa!<br>
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio3">https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio3</a>
+                    <img src="./img/ejer3.png">
                 </li>
                 <li>
                     Ejercicio 04:<br>
                     Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores<br>
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio4">https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio4</a>
+                    <img src="./img/ejer4.png"><img src="./img/ejer4.1.png"><img src="./img/ejer4.2.png">
                 </li>
                 <li>
                     Ejercicio 05:<br>
                     Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.<br>
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio5">https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio5</a>
+                    <img src="./img/ejer5.png"><img src="./img/ejer5.1.png"><img src="./img/ejer5.2.png">
                 </li>
                 <li>
                     Ejercicio 06:<br>
