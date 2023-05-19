@@ -117,8 +117,8 @@
                 <ul>
                     <li>
                         <b>Pruebe el código de arrayGenerator() en la página <a href="https://jslint.com/">https://jslint.com/</a></b><br>
-                        <img src="./img/probandoArrayGenerator.jpg" alt="arrayGenerato() probado en JSLint"><br>
-                        <img src="./img/probandoArrayGenerator2.jpg" alt="arrayGenerato() probado en JSLint"><br>
+                        <img src="./img/probandoArrayGenerator.png" alt="arrayGenerato() probado en JSLint"><br>
+                        <img src="./img/probandoArrayGenerator2.png" alt="arrayGenerato() probado en JSLint"><br>
                         Como tal en esta función JSLint detecta 2 warnings.
                         <ul>
                             <li><i>Unexpected "let"</i>, esto se soluciona declarando la variable x antes de usarla en el  <i>for</i>  y cambiando el  <i>x++</i>  por  <i>x += 1</i>.</li>
