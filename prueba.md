@@ -104,7 +104,7 @@
                     <ul>
                         <li>
                             Layme Mamani, Gonzalo Rail<br>
-                            <a href="https://flipgrid.com/s/NyYX6ktiUUd8">https://flipgrid.com/s/NyYX6ktiUUd8</a>
+                            <a href="https://flip.com/s/ZEeo9PT48xAg">https://flipgrid.com/s/NyYX6ktiUUd8</a>
                         </li>
                     </ul>
                 </li>
