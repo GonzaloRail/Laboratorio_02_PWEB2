@@ -67,7 +67,7 @@
             I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
                     Repositorio general<br>
                     <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2">https://github.com/GonzaloRail/Laboratorio_02_PWEB2</a>
-                    <img src="./img/ejer1">
+                    <img src="./img/ejer1.png">
             <ul>
                 <li>
                     Ejercicio 01:<br>
