@@ -111,7 +111,7 @@
             II. SOLUCIÓN DEL CUESTIONARIO<br>
                 <ul>
                     <li>
-                        <b>Pruebe el código de arrayGenerator() en la página <a href="https://jslint.com/">https://jslint.com/</a></b><br>
+                        <b>Pruebe el código de arrayGenerator() en la página</b><br>
                         <img src="JSLint.jpg" alt="arrayGenerato() probado en JSLint"><br>
                         Como tal en esta función JSLint detecta 2 warnings.
                         <ul>
